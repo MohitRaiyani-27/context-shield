@@ -1,0 +1,8 @@
+[project]
+name = "context-shield"
+version = "0.1.0"
+description = "Attack benchmark and layered defense for enterprise RAG and context systems"
+requires-python = ">=3.10"
+dependencies = []
+license = { text = "MIT" }
+authors = [{ name = "Mohit Raiyani" }]

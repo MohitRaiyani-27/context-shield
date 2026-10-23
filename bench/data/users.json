@@ -1,0 +1,21 @@
+{
+  "fin_analyst": [
+    "all",
+    "finance"
+  ],
+  "engineer": [
+    "all",
+    "eng"
+  ],
+  "hr_partner": [
+    "all",
+    "hr"
+  ],
+  "counsel": [
+    "all",
+    "legal"
+  ],
+  "contractor": [
+    "all"
+  ]
+}
